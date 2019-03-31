@@ -67,7 +67,6 @@ secondary_ips = [
 for x in secondary_ips:
     DNS_dictionary[x["provider"]] = [DNS_dictionary[x["provider"]], x["ip"]]
     # set provider value in dictionary to array of IPs (new and old)
-breakpoint()
 # Use the dictionary to print Hurricane Electric's IPs
 print("--------")
 print("Google's IP is: " + str(DNS_dictionary["Google"]))
