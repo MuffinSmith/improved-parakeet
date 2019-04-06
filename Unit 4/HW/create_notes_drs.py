@@ -1,0 +1,13 @@
+import os
+
+def main():
+    try:
+        for x in range(1,25):
+
+            folder_name ="week "+ str(x)
+            for y in range(1,4):
+                nested_folder = "day " + str(y)
+                os.makedirs(os.path.join(os.path.join(os.getcwd(), folder_name), nested_folder ))
+    except:
+        print("Folders already exist")
+main()
