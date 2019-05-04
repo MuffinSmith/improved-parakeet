@@ -1,0 +1,13 @@
+Status: active
+Logging: on (low)
+Default: deny (incoming), deny (outgoing), deny (routed)
+New profiles: skip
+
+To                         Action      From
+--                         ------      ----
+22                         ALLOW IN    172.18.0.0/24             
+23                         ALLOW IN    172.18.0.0/24             
+
+172.18.0.0/24 22           ALLOW OUT   Anywhere                  
+172.18.0.0/24 23           ALLOW OUT   Anywhere                  
+

@@ -1,0 +1,31 @@
+# Nmap 7.70 scan initiated Mon Oct 29 18:41:29 2018 as: nmap -sV -oN /tmp/start.benchmark resources_user_data_api_1 resources_user_database_1 resources_command_server_1
+Nmap scan report for resources_user_data_api_1 (172.18.0.4)
+Host is up (0.000015s latency).
+rDNS record for 172.18.0.4: resources_user_data_api_1.resources_default
+Not shown: 996 closed ports
+PORT     STATE SERVICE     VERSION
+22/tcp   open  ssh         OpenSSH 7.6p1 Ubuntu 4 (Ubuntu Linux; protocol 2.0)
+80/tcp   open  http        Apache httpd 2.4.29
+443/tcp  open  ssl/ssl     Apache httpd (SSL-only mode)
+9000/tcp open  cslistener?
+MAC Address: 02:42:AC:12:00:04 (Unknown)
+Service Info: Host: docker.vm; OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for resources_user_database_1 (172.18.0.5)
+Host is up (0.000016s latency).
+rDNS record for 172.18.0.5: resources_user_database_1.resources_default
+All 1000 scanned ports on resources_user_database_1 (172.18.0.5) are closed
+MAC Address: 02:42:AC:12:00:05 (Unknown)
+
+Nmap scan report for resources_command_server_1 (172.18.0.3)
+Host is up (0.000016s latency).
+rDNS record for 172.18.0.3: resources_command_server_1.resources_default
+Not shown: 998 closed ports
+PORT   STATE SERVICE    VERSION
+22/tcp open  ssh        OpenSSH 7.6p1 Ubuntu 4 (Ubuntu Linux; protocol 2.0)
+23/tcp open  tcpwrapped
+MAC Address: 02:42:AC:12:00:03 (Unknown)
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Mon Oct 29 18:41:53 2018 -- 3 IP addresses (3 hosts up) scanned in 24.10 seconds
