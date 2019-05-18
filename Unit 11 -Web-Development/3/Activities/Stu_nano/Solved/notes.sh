@@ -1,0 +1,5 @@
+echo "Hello!"
+echo "Today is: $(date)"
+echo "This script is running as: $(whoami)"
+echo "Remember: '$(fortune | cowsay -f tux)'"
+echo "Goodbye!"
