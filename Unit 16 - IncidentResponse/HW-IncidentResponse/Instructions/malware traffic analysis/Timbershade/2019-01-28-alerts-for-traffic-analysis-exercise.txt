@@ -1,0 +1,104 @@
+------------------------------------------------------------------------
+Count:1 Event#3.81737 2019-01-28 21:49 UTC
+ET POLICY HTTP Request on Unusual Port Possibly Hostile
+172.17.8.109 -> 91.121.30.169
+IPVer=4 hlen=5 tos=0 dlen=40 ID=462 flags=2 offset=0 ttl=128 chksum=27095
+Protocol: 6 sport=49207 -> dport=8000
+
+Seq=2340301943 Ack=539435034 Off=5 Res=0 Flags=***A**** Win=64240 urp=19978 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.81738 2019-01-28 21:49 UTC
+ET POLICY Binary Download Smaller than 1 MB Likely Hostile
+91.121.30.169 -> 172.17.8.109
+IPVer=4 hlen=5 tos=0 dlen=1328 ID=0 flags=0 offset=0 ttl=0 chksum=34600
+Protocol: 6 sport=8000 -> dport=49207
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=49991 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.81742 2019-01-28 21:49 UTC
+GPL SHELLCODE x86 NOOP
+91.121.30.169 -> 172.17.8.109
+IPVer=4 hlen=5 tos=0 dlen=1500 ID=40783 flags=0 offset=0 ttl=128 chksum=1698
+Protocol: 6 sport=8000 -> dport=49207
+
+Seq=539441712 Ack=2340301943 Off=5 Res=0 Flags=***A**** Win=64240 urp=32951 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.81755 2019-01-28 21:49 UTC
+ET POLICY PE EXE or DLL Windows file download HTTP
+91.121.30.169 -> 172.17.8.109
+IPVer=4 hlen=5 tos=0 dlen=1328 ID=0 flags=0 offset=0 ttl=0 chksum=34600
+Protocol: 6 sport=8000 -> dport=49207
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=49991 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.81789 2019-01-28 21:49 UTC
+ET INFO Executable Retrieved With Minimal HTTP Headers - Potential Second Stage Download
+91.121.30.169 -> 172.17.8.109
+IPVer=4 hlen=5 tos=0 dlen=1328 ID=0 flags=0 offset=0 ttl=0 chksum=34600
+Protocol: 6 sport=8000 -> dport=49207
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=49991 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.81833 2019-01-28 21:52 UTC
+ET TROJAN ABUSE.CH SSL Blacklist Malicious SSL certificate detected (Dridex)
+192.241.220.183 -> 172.17.8.109
+IPVer=4 hlen=5 tos=0 dlen=1045 ID=0 flags=0 offset=0 ttl=0 chksum=25788
+Protocol: 6 sport=3389 -> dport=49212
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=38012 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.81835 2019-01-28 21:52 UTC
+ET TROJAN ABUSE.CH SSL Blacklist Malicious SSL certificate detected (Dridex)
+192.241.220.183 -> 172.17.8.109
+IPVer=4 hlen=5 tos=0 dlen=1045 ID=0 flags=0 offset=0 ttl=0 chksum=25788
+Protocol: 6 sport=3389 -> dport=49214
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=60037 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.81837 2019-01-28 21:52 UTC
+ET TROJAN ABUSE.CH SSL Blacklist Malicious SSL certificate detected (Dridex)
+192.241.220.183 -> 172.17.8.109
+IPVer=4 hlen=5 tos=0 dlen=1045 ID=0 flags=0 offset=0 ttl=0 chksum=25788
+Protocol: 6 sport=3389 -> dport=49215
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=21599 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.81839 2019-01-28 21:52 UTC
+ET TROJAN ABUSE.CH SSL Blacklist Malicious SSL certificate detected (Dridex)
+192.241.220.183 -> 172.17.8.109
+IPVer=4 hlen=5 tos=0 dlen=1045 ID=0 flags=0 offset=0 ttl=0 chksum=25788
+Protocol: 6 sport=3389 -> dport=49216
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=39273 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.81850 2019-01-28 21:55 UTC
+ET TROJAN ABUSE.CH SSL Blacklist Malicious SSL certificate detected (Dridex)
+216.239.94.252 -> 172.17.8.109
+IPVer=4 hlen=5 tos=0 dlen=1061 ID=0 flags=0 offset=0 ttl=0 chksum=51817
+Protocol: 6 sport=443 -> dport=49224
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=39615 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.81852 2019-01-28 21:56 UTC
+ET TROJAN ABUSE.CH SSL Blacklist Malicious SSL certificate detected (Dridex)
+216.239.94.252 -> 172.17.8.109
+IPVer=4 hlen=5 tos=0 dlen=1061 ID=0 flags=0 offset=0 ttl=0 chksum=51817
+Protocol: 6 sport=443 -> dport=49230
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=20657 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.81853 2019-01-28 21:56 UTC
+ET TROJAN ABUSE.CH SSL Blacklist Malicious SSL certificate detected (Dridex)
+216.239.94.252 -> 172.17.8.109
+IPVer=4 hlen=5 tos=0 dlen=1061 ID=0 flags=0 offset=0 ttl=0 chksum=51817
+Protocol: 6 sport=443 -> dport=49232
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=51340 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.81855 2019-01-28 21:56 UTC
+ET TROJAN ABUSE.CH SSL Blacklist Malicious SSL certificate detected (Dridex)
+216.239.94.252 -> 172.17.8.109
+IPVer=4 hlen=5 tos=0 dlen=1061 ID=0 flags=0 offset=0 ttl=0 chksum=51817
+Protocol: 6 sport=443 -> dport=49234
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=50719 chksum=0

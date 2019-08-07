@@ -1,0 +1,1080 @@
+------------------------------------------------------------------------
+Count:1 Event#3.79922 2018-08-11 06:10:12
+ET POLICY Binary Download Smaller than 1 MB Likely Hostile
+149.129.222.112 -> 10.8.11.101
+IPVer=4 hlen=5 tos=0 dlen=1488 ID=0 flags=0 offset=0 ttl=0 chksum=11210
+Protocol: 6 sport=80 -> dport=49162
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=61206 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.79923 2018-08-11 06:11:13
+ET POLICY PE EXE or DLL Windows file download HTTP
+149.129.222.112 -> 10.8.11.101
+IPVer=4 hlen=5 tos=0 dlen=1488 ID=0 flags=0 offset=0 ttl=0 chksum=11210
+Protocol: 6 sport=80 -> dport=49162
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=58580 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80119 2018-08-11 05:36:18
+ETPRO TROJAN Common Downloader Header Pattern H
+192.168.1.95 -> 149.129.222.112
+IPVer=4 hlen=5 tos=0 dlen=80 ID=0 flags=0 offset=0 ttl=0 chksum=33967
+Protocol: 6 sport=49335 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=34717 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80124 2018-08-11 05:30:16 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50185 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6431 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80125 2018-08-11 05:30:16 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50185 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65176 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80126 2018-08-11 05:30:16 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50185 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6431 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80127 2018-08-11 05:30:16 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50185 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65176 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80128 2018-08-11 05:30:18 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=415 ID=0 flags=0 offset=0 ttl=0 chksum=57595
+Protocol: 6 sport=50194 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=53289 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80129 2018-08-11 05:30:18 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=458 ID=0 flags=0 offset=0 ttl=0 chksum=57552
+Protocol: 6 sport=50194 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=30093 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80130 2018-08-11 05:30:18 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=415 ID=0 flags=0 offset=0 ttl=0 chksum=57595
+Protocol: 6 sport=50194 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=53289 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80131 2018-08-11 05:30:18 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=458 ID=0 flags=0 offset=0 ttl=0 chksum=57552
+Protocol: 6 sport=50194 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=30093 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80132 2018-08-11 05:30:19 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50194 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6422 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80133 2018-08-11 05:30:19 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50194 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65167 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80134 2018-08-11 05:30:19 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50194 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6422 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80135 2018-08-11 05:30:19 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50194 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65167 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80136 2018-08-11 05:30:35 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50195 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6421 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80137 2018-08-11 05:30:35 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50195 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65166 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80138 2018-08-11 05:30:35 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50195 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6421 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80139 2018-08-11 05:30:35 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50195 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65166 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80140 2018-08-11 05:30:51 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50196 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6420 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80141 2018-08-11 05:30:51 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50196 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65165 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80142 2018-08-11 05:30:51 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50196 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6420 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80143 2018-08-11 05:30:51 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50196 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65165 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80144 2018-08-11 05:31:07 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50197 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6419 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80145 2018-08-11 05:31:07 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50197 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65164 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80146 2018-08-11 05:31:07 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50197 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6419 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80147 2018-08-11 05:31:07 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50197 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65164 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80148 2018-08-11 05:31:24 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50198 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6418 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80149 2018-08-11 05:31:24 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50198 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65163 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80150 2018-08-11 05:31:24 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50198 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6418 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80151 2018-08-11 05:31:24 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50198 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65163 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80152 2018-08-11 05:31:40 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50199 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6417 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80153 2018-08-11 05:31:40 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50199 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65162 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80154 2018-08-11 05:31:40 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50199 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6417 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80155 2018-08-11 05:31:40 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50199 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65162 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80156 2018-08-11 05:31:56 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50200 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6416 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80157 2018-08-11 05:31:56 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50200 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65161 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80158 2018-08-11 05:31:56 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50200 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6416 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80159 2018-08-11 05:31:56 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50200 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65161 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80160 2018-08-11 05:32:12 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50201 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6415 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80161 2018-08-11 05:32:12 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50201 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65160 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80162 2018-08-11 05:32:12 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50201 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6415 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80163 2018-08-11 05:32:12 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50201 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65160 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80164 2018-08-11 05:32:29 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50202 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6414 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80165 2018-08-11 05:32:29 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50202 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65159 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80166 2018-08-11 05:32:29 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50202 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6414 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80167 2018-08-11 05:32:29 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50202 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65159 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80168 2018-08-11 05:32:45 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50203 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6413 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80169 2018-08-11 05:32:45 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50203 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65158 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80170 2018-08-11 05:32:45 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50203 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6413 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80171 2018-08-11 05:32:45 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50203 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65158 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80172 2018-08-11 05:33:01 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50205 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6411 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80173 2018-08-11 05:33:01 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50205 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65156 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80174 2018-08-11 05:33:01 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50205 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6411 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80175 2018-08-11 05:33:01 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50205 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65156 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80176 2018-08-11 05:33:17 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50206 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6410 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80177 2018-08-11 05:33:17 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50206 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65155 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80178 2018-08-11 05:33:17 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50206 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6410 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80179 2018-08-11 05:33:17 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50206 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65155 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80180 2018-08-11 05:33:33 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50208 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6408 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80181 2018-08-11 05:33:33 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50208 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65153 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80182 2018-08-11 05:33:33 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50208 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6408 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80183 2018-08-11 05:33:33 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50208 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65153 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80184 2018-08-11 05:33:50 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50209 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6407 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80185 2018-08-11 05:33:50 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50209 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65152 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80186 2018-08-11 05:33:50 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50209 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6407 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80187 2018-08-11 05:33:50 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50209 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65152 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80188 2018-08-11 05:34:06 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50210 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6406 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80189 2018-08-11 05:34:06 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50210 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65151 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80190 2018-08-11 05:34:06 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50210 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6406 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80191 2018-08-11 05:34:06 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50210 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65151 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80192 2018-08-11 05:34:22 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50211 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6405 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80193 2018-08-11 05:34:22 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50211 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65150 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80194 2018-08-11 05:34:22 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50211 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6405 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80195 2018-08-11 05:34:22 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50211 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65150 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80196 2018-08-11 05:37:06 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50212 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6404 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80197 2018-08-11 05:34:38 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50212 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65149 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80198 2018-08-11 05:34:38 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50212 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6404 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80199 2018-08-11 05:34:38 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50212 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65149 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80200 2018-08-11 05:34:54 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50213 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6403 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80201 2018-08-11 05:34:54 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50213 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65148 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80202 2018-08-11 05:34:54 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50213 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6403 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80203 2018-08-11 05:34:54 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50213 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65148 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80204 2018-08-11 05:35:12 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50214 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6402 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80205 2018-08-11 05:35:12 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50214 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65147 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80206 2018-08-11 05:35:12 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50214 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6402 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80207 2018-08-11 05:35:12 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50214 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65147 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80210 2018-08-11 05:35:28 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50215 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6401 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80211 2018-08-11 05:35:28 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50215 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65146 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80212 2018-08-11 05:35:28 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50215 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6401 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80213 2018-08-11 05:35:28 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50215 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65146 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80214 2018-08-11 05:35:44 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50216 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6400 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80215 2018-08-11 05:35:44 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50216 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65145 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80216 2018-08-11 05:35:44 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50216 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6400 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80217 2018-08-11 05:35:44 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50216 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65145 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80218 2018-08-11 05:36:01 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50217 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6399 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80219 2018-08-11 05:36:01 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50217 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65144 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80220 2018-08-11 05:36:01 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50217 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6399 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80221 2018-08-11 05:36:01 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50217 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65144 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80222 2018-08-11 05:36:17 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50284 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6332 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80223 2018-08-11 05:36:17 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50284 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65077 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80224 2018-08-11 05:36:17 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50284 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6332 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80225 2018-08-11 05:36:17 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50284 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=65077 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80226 2018-08-11 05:36:34 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50376 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6240 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80227 2018-08-11 05:36:34 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50376 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=64985 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80228 2018-08-11 05:36:34 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50376 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6240 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80229 2018-08-11 05:36:34 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50376 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=64985 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80230 2018-08-11 05:36:50 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50379 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6237 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80231 2018-08-11 05:36:50 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50379 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=64982 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80232 2018-08-11 05:36:50 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50379 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6237 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80233 2018-08-11 05:36:50 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50379 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=64982 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80234 2018-08-11 05:37:06 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50380 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6236 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80235 2018-08-11 05:37:06 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50380 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=64981 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80236 2018-08-11 05:37:06 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50380 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6236 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80237 2018-08-11 05:37:06 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50380 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=64981 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80238 2018-08-11 05:37:22 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50381 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6235 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80239 2018-08-11 05:37:22 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50381 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=64980 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80240 2018-08-11 05:37:22 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50381 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6235 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80241 2018-08-11 05:37:22 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50381 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=64980 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80242 2018-08-11 05:37:38 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50382 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6234 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80243 2018-08-11 05:37:38 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50382 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=64979 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80244 2018-08-11 05:37:38 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50382 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6234 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80245 2018-08-11 05:37:38 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50382 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=64979 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80246 2018-08-11 05:37:54 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50383 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6233 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80247 2018-08-11 05:37:54 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50383 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=64978 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80248 2018-08-11 05:37:54 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50383 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6233 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80249 2018-08-11 05:37:54 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50383 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=64978 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80250 2018-08-11 05:38:10 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50384 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6232 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80251 2018-08-11 05:38:10 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50384 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=64977 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80252 2018-08-11 05:38:10 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50384 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6232 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80253 2018-08-11 05:38:10 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50384 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=64977 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80254 2018-08-11 05:38:26 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50385 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6231 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80255 2018-08-11 05:38:26 UTC
+ETPRO TROJAN Win32/Marap CnC Beacon
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50385 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=64976 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80256 2018-08-11 05:38:26 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=414 ID=0 flags=0 offset=0 ttl=0 chksum=57596
+Protocol: 6 sport=50385 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=6231 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.80257 2018-08-11 05:38:26 UTC
+ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1
+192.168.1.95 -> 185.68.93.18
+IPVer=4 hlen=5 tos=0 dlen=112 ID=0 flags=0 offset=0 ttl=0 chksum=57898
+Protocol: 6 sport=50385 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=64976 chksum=0

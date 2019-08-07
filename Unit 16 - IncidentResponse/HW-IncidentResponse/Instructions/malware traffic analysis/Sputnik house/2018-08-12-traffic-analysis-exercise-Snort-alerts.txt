@@ -1,0 +1,25 @@
+[**] [1:24108:7] MALWARE-OTHER HTTP POST request to a RAR file [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+08/11-05:20:50 UTC - 192.168.1.95:49334 -> 149.129.222.112:80
+TCP TTL:128 TOS:0x0 ID:3479 IpLen:20 DgmLen:398
+***A**** Seq: 0x9990CC33  Ack: 0xCE2D467D  Win: 0xFAF0  TcpLen: 20
+[Xref => http://snort.org/rule_docs/1-24108]
+
+[**] [1:15306:22] FILE-EXECUTABLE Portable Executable binary file magic detected [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+08/11-05:21:00 UTC - 149.129.222.112:80 -> 192.168.1.95:49335
+TCP TTL:128 TOS:0x0 ID:3487 IpLen:20 DgmLen:1488
+***AP*** Seq: 0xEE7B3833  Ack: 0x1CDAE29D  Win: 0xFAF0  TcpLen: 20
+
+[**] [1:15306:22] FILE-EXECUTABLE Portable Executable binary file magic detected [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+08/11-05:21:00 UTC - 149.129.222.112:80 -> 192.168.1.95:49335
+TCP TTL:128 TOS:0x0 ID:3487 IpLen:20 DgmLen:1488
+***AP*** Seq: 0xEE7B3833  Ack: 0x1CDAE29D  Win: 0xFAF0  TcpLen: 20
+
+[**] [1:11192:20] FILE-EXECUTABLE download of executable content [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+08/11-05:21:00 UTC - 149.129.222.112:80 -> 192.168.1.95:49335
+TCP TTL:128 TOS:0x0 ID:312 IpLen:20 DgmLen:17397 DF
+***A**** Seq: 0xEE7B3833  Ack: 0x1CDAE29D  Win: 0xFAF0  TcpLen: 20
+[Xref => http://www.microsoft.com/smallbusiness/resources/technology/security/practice_safe_computing_and_thwart_online_thugs.mspx]
